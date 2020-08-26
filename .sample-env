@@ -1,0 +1,22 @@
+# Create a new file named ".env" in root dir and fill up the variables below
+
+# Environment
+## use "development"
+ENVIRONMENT=
+
+# DB
+DBUSER=
+DBHOST=
+DBDATABASE=
+DBPASSWORD=
+DBPORT=
+
+# JWT
+## create your own secret key
+## use 1h for development
+JWTSECRET=
+JWTEXPIRESIN=
+
+# Bcrypt
+## use 10 for development
+BCRYPTSALTROUND=
